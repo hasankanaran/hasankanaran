@@ -50,7 +50,11 @@
 
 <div align = "center"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--LSdYlw5w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5l0i7sh15k3hodiohjfv.gif" width="850"></div>
 
-<div align = "center">
+<br></br>
+  <a href="https://app.daily.dev/Hasanka"><img src="https://api.daily.dev/devcards/814d8e926d3a4727ab592158bf1cd09e.png?r=qgv" width="400" alt="Hasanka Lakshan's Dev Card"/></a>
+  
+  <br></br>
+  <div align = "center">
 <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"><h2>About Me</h2>
 <div>
 
@@ -60,7 +64,6 @@
 <a href="https://fb.com/hasankanaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasankanaran" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/hasank_lakshan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/hasank_lakshan/" height="30" width="40" /></a>
 </div>
-  <a href="https://app.daily.dev/Hasanka"><img src="https://api.daily.dev/devcards/814d8e926d3a4727ab592158bf1cd09e.png?r=qgv" width="400" alt="Hasanka Lakshan's Dev Card"/></a>
   
 
 
