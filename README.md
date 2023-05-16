@@ -60,8 +60,7 @@
   <div align = 'center'>
  <a href="https://app.daily.dev/Hasanka"><img src="https://api.daily.dev/devcards/814d8e926d3a4727ab592158bf1cd09e.png?r=qgv" width="400" alt="Hasanka Lakshan's Dev Card"/></a>  
   </div>  
-    <br></br>
-<div align = "center">
+    <div align = "center">
 <a href="https://twitter.com/hasankanaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasankanaran" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hasankanaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasankanaran" height="30" width="40" /></a>
 <a href="https://fb.com/hasankanaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasankanaran" height="30" width="40" /></a>
